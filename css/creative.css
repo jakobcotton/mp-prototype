@@ -9730,3 +9730,8 @@ header.masthead h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+blockquote {
+  font-style: italic;
+  color: #482f87;
+}
